@@ -32,4 +32,6 @@ Now we have to configure our Ubuntu Server Version 18 | 20 | 22, to assign it a 
 
 ![image](https://user-images.githubusercontent.com/69737708/217605851-8c0b5124-e517-4af5-9061-bb80301fab1a.png)
 
+5.- restart now OS:
+- reboot now
 
