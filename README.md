@@ -35,3 +35,11 @@ Now we have to configure our Ubuntu Server Version 18 | 20 | 22, to assign it a 
 5.- restart now OS:
 - reboot now
 
+6.- check new IP static:
+- ip a:
+
+7.- ping internet access:
+
+![image](https://user-images.githubusercontent.com/69737708/217607925-615fe2cb-4cc2-461f-b9c5-8424bba9b1db.png)
+
+8. ready, :)
